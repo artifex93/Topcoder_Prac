@@ -1,1 +1,1 @@
-HALLO!
+This isn't a serious repo. It's sort of like a journal for my topcoder practice sessions. Also, this will hopefully get me more accustomed to the git/github workflow as this is my first time using any kind of version control system.
